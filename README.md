@@ -1,4 +1,4 @@
-## logExpress :tractor:
+## logExpress :steam_locomotive:
 #### Middleware logging calls for Express 4.x 
 
 > $ npm install @7dev-works/log-express
