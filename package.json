@@ -1,6 +1,6 @@
 {
   "name": "@7dev-works/log-express-calls",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Middleware logging Express 4.x calls",
   "main": "index.js",
   "files": [
@@ -15,8 +15,8 @@
     "url": "git+https://github.com/IvoObr/logExpressCalls.git"
   },
   "keywords": [
-    "middlewarre",
-    "exress",
+    "middleware",
+    "express",
     "log"
   ],
   "author": "Ivo Obretenov",
