@@ -5,5 +5,5 @@ declare class Log {
     private static getColoredStatus;
     static logCalls(request: any, response: any, next: any): void;
 }
-export declare const logExpressCalls: typeof Log.logCalls;
+export declare const logExpress: typeof Log.logCalls;
 export {};

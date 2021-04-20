@@ -49,4 +49,4 @@ class Log {
     }
 }
 
-export const logExpressCalls = Log.logCalls;
+export const logExpress = Log.logCalls;

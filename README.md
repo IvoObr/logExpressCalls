@@ -1,7 +1,7 @@
-## logExpressCalls :tractor:
+## logExpress :tractor:
 #### Middleware logging calls for Express 4.x 
 
-> $ npm install @7dev-works/log-express-calls
+> $ npm install @7dev-works/log-express
 
 * has timestamp,
 * method name,
@@ -14,14 +14,14 @@
 
 > app.js 
 ```javascript
-import { logExpressCalls } from '@7dev-works/log-express-calls';
+import { logExpress } from '@7dev-works/log-express';
 
 const express = require('express')
 const app = express()
 const port = 3000
 
 // enables call logging 
-app.use(logExpressCalls)
+app.use(logExpress)
 
 app.get('/', (req, res) => {
   res.send('Hello World!')

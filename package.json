@@ -1,6 +1,6 @@
 {
-  "name": "@7dev-works/log-express-calls",
-  "version": "1.0.2",
+  "name": "@7dev-works/log-express",
+  "version": "1.0.4",
   "description": "Middleware logging Express 4.x calls",
   "main": "index.js",
   "files": [
