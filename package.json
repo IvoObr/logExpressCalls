@@ -1,0 +1,31 @@
+{
+  "name": "@7dev-works/log-express-calls",
+  "version": "1.0.0",
+  "description": "Middleware logging Express 4.x calls",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvoObr/logExpressCalls.git"
+  },
+  "keywords": [
+    "middlewarre",
+    "exress",
+    "log"
+  ],
+  "author": "Ivo Obretenov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvoObr/logExpressCalls/issues"
+  },
+  "homepage": "https://github.com/IvoObr/logExpressCalls#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
