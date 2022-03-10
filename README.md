@@ -1,7 +1,7 @@
 ## logExpress :steam_locomotive:
 #### Middleware logging calls for Express 4.x 
 
-> $ npm install @7dev-works/log-express
+> $ npm install @7util/log-express
 
 * has timestamp,
 * method name,
@@ -14,7 +14,7 @@
 
 > app.js 
 ```javascript
-import { logExpress } from '@7dev-works/log-express';
+import { logExpress } from '@7util/log-express';
 
 const express = require('express')
 const app = express()
